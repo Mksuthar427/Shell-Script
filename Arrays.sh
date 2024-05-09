@@ -15,3 +15,5 @@ echo "range value between 2-4 ${myArrays[*]:2:3}"
 myArrays+=( 40 50 new add )
 
 echo "this is print my all array output ${myArrays[*]}"
+
+
