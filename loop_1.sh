@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 
 items="/home/e2m/Shell-Script/file.txt"
 
