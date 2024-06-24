@@ -3,7 +3,7 @@
 
 free_space=$(free -mt | grep Total | awk '{print $4}')
 
-th=1700
+th=300
 
 if [[ free_space -lt th ]]
 then
